@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Gorai</h1>
-<h3 align="center">Aspiring developer from India</h3>
+<h3 align="center">Aspiring Android developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 📝 I regularly write articles on [https://shub39.hashnode.dev/](https://shub39.hashnode.dev/)
+- 🌱 I’m currently learning **Python**, **C**
 
 - 💬 Ask me about **Custom Roms, Linux**
 
