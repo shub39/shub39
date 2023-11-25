@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Gorai</h1>
 <h3 align="center">Aspiring Android developer from India</h3>
 
-- 🌱 I’m currently learning **Python**, **C**
+- 🌱 I’m currently learning **Python**, **C**,**Kotlin**
 
-- 💬 Ask me about **Custom Roms, Linux**
+- 💬 Ask me about **Custom Roms**, **Linux**
 
 - 📫 How to reach me **cptnshubham39@gamail.com**
 
