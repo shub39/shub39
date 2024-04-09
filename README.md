@@ -3,7 +3,7 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shub39&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shub39" />
-<a href="https://https://www.linkedin.com/in/shub39" target="_blank">
+<a href="https://www.linkedin.com/in/shub39" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="mailto:cptnshubham39@gmail.com">
