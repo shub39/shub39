@@ -4,7 +4,7 @@
 - Currently learning how to code properly.
 - I love linux and open source software. Currently using a <a href="https://github.com/shub39/dotfiles"> tiling window manager. </a>
 - I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Here's my first IoT based project. </a>
-- Contact me via cptnshubham39@gmail.com.
+- My hobbies are tinkering with operating systems and testing out new stuff.
 
 <h3 align="left">Languages and Technologies I know:</h3>
 <p align="left"> 
