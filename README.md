@@ -12,8 +12,8 @@
 </p>
 
 - Currently learning how to code properly.
-- I love linux and open source software. Currently using a <a href="https://github.com/shub39/dotfiles"> tiling window manager. </a>
-- I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Here's my first IoT based project. </a>
+- I love linux and open source software. Currently using a <a href="https://github.com/shub39/dotfiles"> Fedora with Hyprland. </a>
+- I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Raspberry pi project. </a>
 - My hobbies are tinkering with operating systems and testing out new stuff.
 
 <h3 align="left">Languages and Technologies I know or Learning:</h3>
