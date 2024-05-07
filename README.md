@@ -9,7 +9,7 @@
 </p>
 
 - Currently learning how to code properly.
-- I love linux and open source software.
+- I love linux and open source software. Using Hyprland + Fedora and very proud of my <a href="https://github.com/shub39/dotfiles">dotfiles</a>. 🥰
 - I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Raspberry pi project. </a>
 - My hobbies are trying out operating systems and testing out new stuff.
 
@@ -30,8 +30,8 @@
 
 <h3 align="left">Operating Systems I have used:</h3>
 <p align="left"> 
-    <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"  width="40" height="40"/></a>
     <a href="https://fedoraproject.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"  width="40" height="40"/></a>
+    <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"  width="40" height="40"/></a>
     <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg"  width="40" height="40"/></a>
     <a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"  width="40" height="40"/></a>
     <a href="https://knowyourmeme.com/memes/michaelsoft-binbows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"  width="40" height="40"/></a>
