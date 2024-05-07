@@ -9,9 +9,9 @@
 </p>
 
 - Currently learning how to code properly.
-- I love linux and open source software. Currently <a href="https://github.com/shub39/dotfiles"> moving my Hyprland dots to Arch. </a>
+- I love linux and open source software.
 - I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Raspberry pi project. </a>
-- My hobbies are tinkering with operating systems and testing out new stuff.
+- My hobbies are trying out operating systems and testing out new stuff.
 
 <h3 align="left">Languages and Technologies I know or Learning:</h3>
 <p align="left"> 
