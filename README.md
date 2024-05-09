@@ -9,7 +9,7 @@
 </p>
 
 - Currently learning how to code properly.
-- Working on my portfolio <a href="https://shub39.github.io/portfolio-website/"> website</a> 
+- Working on my portfolio <a href="https://shub39.netlify.app/"> website</a> 
 - I love linux and open source software. Using Hyprland + Fedora and very proud of my <a href="https://github.com/shub39/dotfiles">dotfiles</a>. 🥰
 - I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Raspberry pi project. </a>
 - My hobbies are trying out operating systems and testing out new stuff.
