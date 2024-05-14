@@ -1,13 +1,6 @@
 <h1 align="left">Hi 👋, I'm Shubham</h1>
 <h3 align="left">Aspiring Android developer from India</h3>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=shub39&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shub39" />
-<a href="mailto:cptnshubham39@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
-</p>
-
 - Currently learning how to code properly.
 - Working on my portfolio <a href="https://shub39.netlify.app/"> website</a> 
 - I love linux and open source software. Using Hyprland + Fedora and very proud of my <a href="https://github.com/shub39/dotfiles">dotfiles</a>. 🥰
@@ -16,6 +9,13 @@
 
 
 <h3 align="left">My Github Stats:</h3>
-<p align="left">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shub39&show_icons=true&theme=dark&locale=en&layout=compact" alt="shub39" />   
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shub39&show_icons=true&theme=gruvbox&locale=en&layout=pie" alt="shub39" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shub39&show_icons=true&theme=gruvbox" alt="shub39's GitHub stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shub39&theme=gruvbox" alt="shub39's WakaTime stats" />
+</p>
+
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=shub39&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shub39" />
 </p>
