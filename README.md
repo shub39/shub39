@@ -10,7 +10,7 @@
 
 <h3 align="left">My Github Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shub39&show_icons=true&theme=gruvbox&locale=en&layout=pie" alt="shub39" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shub39&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="shub39" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=shub39&show_icons=true&theme=gruvbox" alt="shub39's GitHub stats" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shub39&theme=gruvbox" alt="shub39's WakaTime stats" />
 </p>
