@@ -7,7 +7,7 @@
 </div>
 
 - Currently learning how to code properly.
-- Working on my first<a href="https://github.com/shub39/Grit"> App.</a> 
+- Working on <a href="https://github.com/shub39/Rush"> Rush.</a> 
 - I love linux and open source software. Daily driving Fedora for a year. 🥰
 - I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Raspberry pi project. </a>
 - My hobbies are trying out operating systems and testing out new stuff.
