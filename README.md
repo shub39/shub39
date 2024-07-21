@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Aspiring Android developer from India</h3>
+<h1 align="center">Hi! 👋, I'm Shubham</h1>
+<h3 align="center">begginer Android dev and Linux Nerd</h3>
 <div align="center"> 
   
 [![](https://img.shields.io/badge/website-red?style=for-the-badge&logo=browser&color=CCE8E9&logoColor=D9E0EE&labelColor=292324)](https://shub39.netlify.app) 
@@ -8,7 +8,7 @@
 
 - Currently learning how to code properly.
 - Working on <a href="https://github.com/shub39/Rush"> Rush.</a> 
-- I love linux and open source software. I use arch btw
+- I love linux and open source software. I use arch btw, [dots](https://github.com/shub39/dotfiles/)
 - I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Raspberry pi project. </a>
 - My hobbies are trying out operating systems and testing out new stuff.
 
