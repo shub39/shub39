@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Shubham</h1>
-<h3 align="center">begginer Android dev and Linux Nerd</h3>
+<h3 align="center">beginner Android dev and Linux Nerd</h3>
 <div align="center"> 
   
 [![](https://img.shields.io/badge/website-red?style=for-the-badge&logo=browser&color=CCE8E9&logoColor=D9E0EE&labelColor=292324)](https://shub39.netlify.app) 
