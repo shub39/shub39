@@ -9,7 +9,7 @@
 - Currently learning how to code properly.
 - Working on <a href="https://github.com/shub39/Rush"> Rush.</a> 
 - I love linux and open source software. I use arch btw, [dots](https://github.com/shub39/dotfiles/)
-- I love to tinker with IoT devices. <a href="https://github.com/shub39/fingerprint_attendance"> Raspberry pi project. </a>
+- I love to tinker with IoT devices. <a href="https://github.com/shub39/biometric-attendance"> Raspberry pi project. </a>
 - My hobbies are trying out operating systems and testing out new stuff.
 
 
