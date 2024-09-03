@@ -22,5 +22,5 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shub39&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shub39" />
+<img src="https://komarev.com/ghpvc/?username=shub39&label=Potential%20Lovers&color=0e75b6&style=for-the-badge" alt="shub39" />
 </p>
