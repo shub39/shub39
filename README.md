@@ -6,10 +6,16 @@
 
 </div>
 
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7oxobdiwrat5belvf7biitlny&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7oxobdiwrat5belvf7biitlny&redirect=true)
+
+</div>
+
 - Currently learning how to code properly.
-- Working on <a href="https://github.com/shub39/Rush"> Rush.</a> 
 - I love linux and open source software. using arch btw, [dots](https://github.com/shub39/dotfiles/)
 - I love to tinker with IoT devices. Here's my <a href="https://github.com/shub39/biometric-attendance"> Raspberry pi project. </a>
+- Working on my Apps
 - My hobbies are trying out operating systems and testing out new stuff.
 
 
