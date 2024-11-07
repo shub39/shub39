@@ -33,4 +33,8 @@
 
 <h3 align="center">🌟 Star History for my Top repos 🌟</h3>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=shub39/Grit,shub39/Rush,shub39/dotfiles&type=Date)](https://star-history.com/#shub39/Grit&shub39/Rush&shub39/dotfiles&Date)
+<p align="center">
+  
+<img src="https://api.star-history.com/svg?repos=shub39/Grit,shub39/Rush,shub39/dotfiles&type=Date)](https://star-history.com/#shub39/Grit&shub39/Rush&shub39/dotfiles&Date">
+
+</p>
