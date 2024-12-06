@@ -1,6 +1,10 @@
 # Hi! I'm Shubham
 ### Beginner Android dev and Linux Nerd
 
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">](https://shub39.netlify.app)
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg">](https://discord.gg/https://discord.gg/nxA2hgtEKf)
+> [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg">](https://t.me/shub39)
+
 > ## Listening to
 > [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7oxobdiwrat5belvf7biitlny&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7oxobdiwrat5belvf7biitlny&redirect=true)
 
