@@ -5,3 +5,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shub39&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=shub39&theme=gruvbox&hide_border=false)
+
+![](https://komarev.com/ghpvc/?username=shub39&style=for-the-badge)
