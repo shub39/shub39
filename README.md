@@ -20,7 +20,7 @@
 
 ### Practice and Proof of concept apps
 - 👾 [Plumbus](https://github.com/shub39/Plumbus) : A KMP app to browse info on the Rick and Morty Universe (KMP Contest 2025)
-- 🕵️ [Kovert](https://github.com/shub39/Kovert) : A Social Engineering Mystery Game (KMP Contest 2025)
+- 🕵️ [Kovert](https://github.com/shub39/Kovert) : A Social Engineering Mystery Game (KMP Contest 2026)
 
 ### Other Projects
 - 🖐️ [Biometric Attendance](https://github.com/shub39/biometric-attendance) : Biometric Attendance system written for RPi 4B
