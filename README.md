@@ -2,10 +2,6 @@
 
 [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">](https://shub39.netlify.app)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shub39&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shub39&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
-
 ![GitHub Stats](https://streak-stats.demolab.com?user=shub39&theme=gruvbox&hide_border=false)
 
 ![](https://komarev.com/ghpvc/?username=shub39&style=for-the-badge)
@@ -25,4 +21,4 @@
 ### Other Projects
 - 🖐️ [Biometric Attendance](https://github.com/shub39/biometric-attendance) : Biometric Attendance system written for RPi 4B
 - 📹️ [RpiAttendance](https://github.com/shub39/RpiAttendance) : Successor to biometric attendance, Same system with a server, face recognition and desktop/mobile clients
-- ✨️ [Dotfiles](https://github.com/shub39/dotfiles) : Dotfiles for my Hyprland + Quickshell config
+- ✨️ [Dotfiles](https://github.com/shub39/dotfiles) : Dotfiles for my Niri + Quickshell config
