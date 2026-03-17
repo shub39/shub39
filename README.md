@@ -1,7 +1,5 @@
 ## Stats
 
-[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">](https://shub39.netlify.app)
-
 ![GitHub Stats](https://streak-stats.demolab.com?user=shub39&theme=gruvbox&hide_border=false)
 
 ![](https://komarev.com/ghpvc/?username=shub39&style=for-the-badge)
