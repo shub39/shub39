@@ -1,6 +1,6 @@
 ## Stats
 
-![GitHub Stats](https://streak-stats.demolab.com?user=shub39&theme=gruvbox&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shub39&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=shub39&style=for-the-badge)
 
