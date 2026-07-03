@@ -20,5 +20,4 @@
 
 ### Other Projects
 - 🖐️ [Biometric Attendance](https://github.com/shub39/biometric-attendance) : Biometric Attendance system written for RPi 4B
-- 📹️ [RpiAttendance](https://github.com/shub39/RpiAttendance) : Successor to biometric attendance, Same system with a server, face recognition and desktop/mobile clients
 - ✨️ [Dotfiles](https://github.com/shub39/dotfiles) : Dotfiles for my Niri + Quickshell config
