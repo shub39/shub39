@@ -1,6 +1,6 @@
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shub39&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+[![shub39's GitHub stats](https://github-stats-extended.vercel.app/api?username=shub39)](https://github.com/stats-organization/github-stats-extended)
 
 ![](https://komarev.com/ghpvc/?username=shub39&style=for-the-badge)
 
